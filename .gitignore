@@ -1,0 +1,6 @@
+*.a
+*.o
+*.log
+my_ls
+.vscode
+*.json
