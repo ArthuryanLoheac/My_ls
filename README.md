@@ -5,7 +5,7 @@ The `my_ls` project is a re-creation of the Unix `ls` command, a fundamental par
 ## Features
 
 - **Basic Listing:** Like the original `ls` command, `my_ls` lists the contents of directories.
-- **Support for `-l`, `-a`, `-R`, `-d`, `-r`, and `-t` flags:** 
+- **Support for `-l`, `-a`, `-d`, `-r`, and `-t` flags:** 
   - `-l` for detailed listings,
   - `-a` to include hidden files,
   - `-d` to list directories themselves, not their contents,
