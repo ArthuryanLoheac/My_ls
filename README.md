@@ -8,7 +8,6 @@ The `my_ls` project is a re-creation of the Unix `ls` command, a fundamental par
 - **Support for `-l`, `-a`, `-R`, `-d`, `-r`, and `-t` flags:** 
   - `-l` for detailed listings,
   - `-a` to include hidden files,
-  - `-R` for recursive listing,
   - `-d` to list directories themselves, not their contents,
   - `-r` to reverse the order of the sort,
   - `-t` to sort by modification time, newest first.
